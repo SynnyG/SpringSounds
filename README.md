@@ -9,7 +9,7 @@
 
 <p><ins><strong>For example</strong></ins>: you have a sound that you like and you want to listen it when you type in your keyboard ? No problem, take it and put it in /Library/Application Support/SpringSounds/Themes/Keyboard/, go into Springsounds (Settings app, SpringSounds), Community&#39;s Sounds and select it under Keyboard Sounds ! You have two buttons for it: one for listen and one for apply it. When you tap the &quot;<em>Apply change and respring</em>&quot; button, your device will respring automatically. That&#39;s it !</p>
 
-<p>Note: your sound must have the .caf extension !!!</p>
+<p>Note: your sound must have the .caf extension !!! Instructions below for file convertion</p>
 
 <p>&nbsp;</p>
 
