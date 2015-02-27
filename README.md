@@ -1,5 +1,4 @@
-# SpringSounds
-<p><strong>SpringSounds</strong> is a free application developped for Cydia users that allow you to change some system sounds in your iDevice.</p>
+<p><strong>SpringSounds</strong> is a free application developped for Cydia users that allow you to change some system sounds.</p>
 
 <p>At the moment, Keyboard, Lock, Photo Shutter, Plug, Received message and Sent message are supported. More to come soon...</p>
 
@@ -9,7 +8,15 @@
 
 <p><ins><strong>For example</strong></ins>: you have a sound that you like and you want to listen it when you type in your keyboard ? No problem, take it and put it in /Library/Application Support/SpringSounds/Themes/Keyboard/, go into Springsounds (Settings app, SpringSounds), Community&#39;s Sounds and select it under Keyboard Sounds ! You have two buttons for it: one for listen and one for apply it. When you tap the &quot;<em>Apply change and respring</em>&quot; button, your device will respring automatically. That&#39;s it !</p>
 
-<p>Note: your sound must have the .caf extension !!! Instructions below for file convertion</p>
+<p>Note: your sound must have the .caf extension !!! Instructions below on how to convert your sound to correct format</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h1><ins>Sounds Included</ins></h1>
+
+<p>There is some sounds that has been included by default into the application, you can find it under Sounds Included (not too difficult to remember :P). I&#39;ve not created them or searched on the web for it, that&#39;s simply sounds that are already in the device. Some are used for example when you send a message, some are no more used. I may in the future include more sound directly in the application or with other Cydia package</p>
 
 <p>&nbsp;</p>
 
@@ -54,4 +61,3 @@ com.your.compagny \
 <p>&nbsp;</p>
 
 <h3>SynnyG</h3>
-
