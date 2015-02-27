@@ -1,5 +1,5 @@
 # SpringSounds
-<p><strong>SpringSounds</strong> is a free application developped for Cydia users that allow you to change some system sounds.</p>
+<p><strong>SpringSounds</strong> is a free application developped for Cydia users that allow you to change some system sounds in your iDevice.</p>
 
 <p>At the moment, Keyboard, Lock, Photo Shutter, Plug, Received message and Sent message are supported. More to come soon...</p>
 
